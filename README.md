@@ -1,6 +1,6 @@
 # **Credits**
 
-This tool was made by th BinFbs (od8m-deltrix)
+This tool was made by the BinFbs (od8m-deltrix)
 
 # **Binary Femboys Bytepatch Patcher**
 
