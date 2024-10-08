@@ -1,3 +1,6 @@
+# **Credits**
+
+This tool was made by th BinFbs (od8m-deltrix)
 
 # **Binary Femboys Bytepatch Patcher**
 
@@ -48,6 +51,6 @@ This tool lets you patch the memory of running processes on Windows. It can bypa
 
 ## **License**
 
-Feel free to use and modify this tool as you like.
+Feel free to use and modify this tool as you like as long as you dont sell it or a different copy based on this source code.
 
 --- 
