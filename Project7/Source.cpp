@@ -170,7 +170,7 @@ int main() {
     std::cout << MAGENTA << "[BinaryFemboy Central]" << RESET << GREEN << " [INFO] You like femboys don't you~~ ;3" << std::endl;
     std::this_thread::sleep_for(std::chrono::seconds(1));
     std::cout << MAGENTA << "[BinaryFemboy Central]" << RESET << GREEN << " [INFO] Currently using Binary Femboys v1.2" << std::endl;
-    std::cout << MAGENTA << "[BinaryFemboy Central]" << RESET << GREEN << " [INFO] Made with love (and several lost braincells) by @od8m" << std::endl;
+    std::cout << MAGENTA << "[BinaryFemboy Central]" << RESET << GREEN << " [INFO] Made with love (and several lost braincells) by @od8m and @deltrix" << std::endl;
     std::this_thread::sleep_for(std::chrono::seconds(2));
 
     while (true) {
