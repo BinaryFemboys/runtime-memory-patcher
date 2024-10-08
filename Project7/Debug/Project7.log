@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\timan\source\repos\Project7\Project7\Source.cpp(30,27): error C2059: syntax error: ';'
+C:\Users\timan\source\repos\Project7\Project7\Source.cpp(31,1): error C2059: syntax error: '}'
+C:\Users\timan\source\repos\Project7\Project7\Source.cpp(31,1): error C2143: syntax error: missing ';' before '}'
