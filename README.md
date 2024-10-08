@@ -10,8 +10,8 @@ This tool lets you patch the memory of running processes on Windows. It can bypa
 
 - **Patch Memory:** Change the memory of a target process by entering the address and new bytes.
 - **Admin Privileges:** Requests admin access to enable memory modification.
-- **Colored Output:** Shows messages in color for better readability.
 - **Easy to Use:** User prompts guide you through the process.
+- **Simple video: [link](https://www.youtube.com/watch?v=zB5N9rjWaZg)
 
 ## **Requirements**
 
